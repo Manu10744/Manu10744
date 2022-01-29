@@ -9,6 +9,8 @@ I'm Manu - a CS student located in the metropolitan area of Munich, Germany.
 I love doing sports (lifting and swimming in particular), cooking (isn't cooking just the execution of an algorithm, at the end?) and travelling.<br> 
 Additionally, as (probably) most other people here on that platform, I have an unhealthy relationship with coffee ☕ .
 
+___
+
 ### How I got into programming 📖	
 I started to teach myself programming by the end of 2017. Like many others, I was not quite sure what to do now after I had done my A-Levels. Basically, there were three things I was good at: **Sports**, **English** (or foreign languages generally) and **Computers**. 
 
@@ -39,8 +41,7 @@ ___
 
 JavaScript / NodeJS | Python | Java | Docker | Kubernetes
 
-<br>
-<hr>
+___
 
 ### Things I'd like to look into someday 🤔
 - [ ] GraphQL
