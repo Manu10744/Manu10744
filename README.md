@@ -3,13 +3,12 @@
 
 I'm Manu - a CS student located in the metropolitan area of Munich, Germany.
 
-<br>
 
 ### Some facts about me 🎯	
 I love doing sports (lifting and swimming in particular), cooking (isn't cooking just the execution of an algorithm, at the end?) and travelling.<br> 
 Additionally, as (probably) most other people here on that platform, I have an unhealthy relationship with coffee ☕ .
 
-___
+#
 
 ### How I got into programming 📖	
 I started to teach myself programming by the end of 2017. Like many others, I was not quite sure what to do now after I had done my A-Levels. Basically, there were three things I was good at: **Sports**, **English** (or foreign languages generally) and **Computers**. 
@@ -23,23 +22,34 @@ Eventually I discovered the **Udemy Platform** and due to my interest in the **W
 
 So a short time after, I enrolled in a bachelor's degree program at the [University of Munich](https://www.lmu.de/de/index.html).  👨‍🎓 
 
-___
+#
 
 ### What I find interesting 💡	
 I like everything related to Software Development, DevOps and Natural Language Processing.<br>
 I'm especially interested in the developments of the automotive industry and I definitely would like to work in this field some day.
 
-___
+#
 
 ### What I'm currently doing 💼	
 I’m currently working as a **Working Student** in the field of Software Development.<br>
 
-___
+#
 
-### Technologies I've worked with ✨ 
-(No specific order)
+### Technologies I've worked with ✨ (no specific order)
 
-JavaScript / NodeJS | Python | Java | Docker | Kubernetes
+<br>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/>
+</p>
+
+<br>
 
 ___
 
