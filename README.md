@@ -25,10 +25,9 @@ So a short time after, I enrolled in a bachelor's degree program at the [Univers
 #
 
 ### What I find interesting 💡	
-I like everything related to Software Development, DevOps and Natural Language Processing.<br>
-I'm especially interested in the developments of the automotive industry and I definitely would like to work in this field some day.
+I like everything related to Software Development, DevOps and Natural Language Processing and really love the idea of Containerization ( Docker 🐳💙 ).<br>
+Regarding the industry I'm especially interested in the developments of the automotive industry and I definitely would like to work in this field some day.
 
-#
 
 ### What I'm currently doing 💼	
 I’m currently working as a **Working Student** in the field of Software Development.<br>
@@ -43,6 +42,7 @@ I’m currently working as a **Working Student** in the field of Software Develo
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="javascript" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
