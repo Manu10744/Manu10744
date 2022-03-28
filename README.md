@@ -26,7 +26,7 @@ So a short time after, I enrolled in a bachelor's degree program at the [Univers
 
 ### What I find interesting 💡	
 I like everything related to Software Development, DevOps and Natural Language Processing and really love the idea of Containerization ( Docker 🐳💙 ).<br>
-Regarding the industry I'm especially interested in the developments of the automotive industry and I definitely would like to work in this field some day.
+I'm also very in the developments of the automotive industry and I definitely would like to work in this field some day.
 
 
 ### What I'm currently doing 💼	
