@@ -57,8 +57,8 @@ ___
 - [ ] GraphQL
 - [ ] AWS Cloud
 - [ ] Automotive IT industry
-- [ ] Serverless
-- [ ] Grafana
+- [x] Serverless
+- [x] Grafana
 
 <!--
 **Manu10744/Manu10744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
